@@ -1,0 +1,30 @@
+C:\Users\Алексей\source\repos\Pianino\Pianino\obj\Debug\net6.0\Pianino.csproj.AssemblyReference.cache
+C:\Users\Алексей\source\repos\Pianino\Pianino\obj\Debug\net6.0\Pianino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\source\repos\Pianino\Pianino\obj\Debug\net6.0\Pianino.AssemblyInfoInputs.cache
+C:\Users\Алексей\source\repos\Pianino\Pianino\obj\Debug\net6.0\Pianino.AssemblyInfo.cs
+C:\Users\Алексей\source\repos\Pianino\Pianino\obj\Debug\net6.0\Pianino.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\Pianino\Pianino\bin\Debug\net6.0\Pianino.exe
+C:\Users\Алексей\source\repos\Pianino\Pianino\bin\Debug\net6.0\Pianino.deps.json
+C:\Users\Алексей\source\repos\Pianino\Pianino\bin\Debug\net6.0\Pianino.runtimeconfig.json
+C:\Users\Алексей\source\repos\Pianino\Pianino\bin\Debug\net6.0\Pianino.dll
+C:\Users\Алексей\source\repos\Pianino\Pianino\bin\Debug\net6.0\Pianino.pdb
+C:\Users\Алексей\source\repos\Pianino\Pianino\obj\Debug\net6.0\Pianino.dll
+C:\Users\Алексей\source\repos\Pianino\Pianino\obj\Debug\net6.0\refint\Pianino.dll
+C:\Users\Алексей\source\repos\Pianino\Pianino\obj\Debug\net6.0\Pianino.pdb
+C:\Users\Алексей\source\repos\Pianino\Pianino\obj\Debug\net6.0\Pianino.genruntimeconfig.cache
+C:\Users\Алексей\source\repos\Pianino\Pianino\obj\Debug\net6.0\ref\Pianino.dll
+C:\Users\vipal\OneDrive\Рабочий стол\Pianino\Pianino\bin\Debug\net6.0\Pianino.exe
+C:\Users\vipal\OneDrive\Рабочий стол\Pianino\Pianino\bin\Debug\net6.0\Pianino.deps.json
+C:\Users\vipal\OneDrive\Рабочий стол\Pianino\Pianino\bin\Debug\net6.0\Pianino.runtimeconfig.json
+C:\Users\vipal\OneDrive\Рабочий стол\Pianino\Pianino\bin\Debug\net6.0\Pianino.dll
+C:\Users\vipal\OneDrive\Рабочий стол\Pianino\Pianino\bin\Debug\net6.0\Pianino.pdb
+C:\Users\vipal\OneDrive\Рабочий стол\Pianino\Pianino\obj\Debug\net6.0\Pianino.csproj.AssemblyReference.cache
+C:\Users\vipal\OneDrive\Рабочий стол\Pianino\Pianino\obj\Debug\net6.0\Pianino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipal\OneDrive\Рабочий стол\Pianino\Pianino\obj\Debug\net6.0\Pianino.AssemblyInfoInputs.cache
+C:\Users\vipal\OneDrive\Рабочий стол\Pianino\Pianino\obj\Debug\net6.0\Pianino.AssemblyInfo.cs
+C:\Users\vipal\OneDrive\Рабочий стол\Pianino\Pianino\obj\Debug\net6.0\Pianino.csproj.CoreCompileInputs.cache
+C:\Users\vipal\OneDrive\Рабочий стол\Pianino\Pianino\obj\Debug\net6.0\Pianino.dll
+C:\Users\vipal\OneDrive\Рабочий стол\Pianino\Pianino\obj\Debug\net6.0\refint\Pianino.dll
+C:\Users\vipal\OneDrive\Рабочий стол\Pianino\Pianino\obj\Debug\net6.0\Pianino.pdb
+C:\Users\vipal\OneDrive\Рабочий стол\Pianino\Pianino\obj\Debug\net6.0\Pianino.genruntimeconfig.cache
+C:\Users\vipal\OneDrive\Рабочий стол\Pianino\Pianino\obj\Debug\net6.0\ref\Pianino.dll
